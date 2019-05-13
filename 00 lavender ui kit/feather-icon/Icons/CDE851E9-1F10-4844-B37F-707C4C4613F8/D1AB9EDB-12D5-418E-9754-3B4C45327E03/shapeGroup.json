@@ -1,0 +1,98 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1AB9EDB-12D5-418E-9754-3B4C45327E03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24.00006130103845,
+    "width": 24.03061984194558,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "31BD5658-E73A-4696-98AE-AFEE1C9C99CC"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F285AAD-EB36-4831-8342-A49F2DB4CEFC"
+    },
+    {
+      "class": "shapePath",
+      "id": "0FFBDFFF-E3EC-4D6A-9B26-070F2CA9404A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F1887440-6EE4-4CAC-9F32-A6D2D2CB6FF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6A5DC74-9EBF-4F02-AA8D-D658A429C481"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0757491-4E54-462E-A89A-05AED85D6F63"
+    },
+    {
+      "class": "shapePath",
+      "id": "007D51B2-219E-42DE-949E-FD0AFF84981A"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "C378BDDA-ED40-460E-AC15-4BC1B48D3822",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C30CC3CD-2E80-4C7C-A9B0-9DB99B994178",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1704879981884058,
+          "green": 0.1704879981884058,
+          "red": 0.1704879981884058
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}
