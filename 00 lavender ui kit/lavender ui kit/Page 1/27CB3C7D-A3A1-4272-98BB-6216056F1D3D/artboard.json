@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8B26A4CF-9F8A-494E-9BA9-CAF7A4BAE935",
-    "height": 224,
+    "height": 420,
     "width": 487,
     "x": 273,
     "y": 239
@@ -35,7 +35,7 @@
     "do_objectID": "06282FE8-7C80-49B8-AC0B-AD072896DB47"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -93,6 +93,26 @@
     {
       "class": "rectangle",
       "id": "91CA6D65-620E-4509-8DF2-BAA366EF4291"
+    },
+    {
+      "class": "rectangle",
+      "id": "7D7EB62A-61A4-47E8-A3A4-FCA26F26EC6E"
+    },
+    {
+      "class": "rectangle",
+      "id": "0ECC70FF-1921-4DA6-82D8-BD7168AAED5B"
+    },
+    {
+      "class": "rectangle",
+      "id": "D51F6B51-E395-408E-99EC-B947935B70A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "FBB0BB99-DB57-4EC4-8569-41AD908CF61D"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DE47B4F-2AFB-4FFB-A87A-96C59A0F11E8"
     }
   ],
   "name": "layer style",

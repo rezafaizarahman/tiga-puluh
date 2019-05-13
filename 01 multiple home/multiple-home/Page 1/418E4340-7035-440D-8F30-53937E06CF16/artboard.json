@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "418E4340-7035-440D-8F30-53937E06CF16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 1756,
+    "y": 78
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BD3E4D51-A143-44D7-A87B-C32E9586B03F"
+    },
+    {
+      "class": "group",
+      "id": "23D57A12-190E-49CC-A06A-85EF9494A4FB"
+    },
+    {
+      "class": "group",
+      "id": "57606CB6-6265-4C4B-B1A2-13E37FD18724"
+    },
+    {
+      "class": "group",
+      "id": "8260D684-FFFC-4480-9611-CD10BDF97E9B"
+    },
+    {
+      "class": "group",
+      "id": "3318E584-1482-426C-87BA-EF35BD686075"
+    },
+    {
+      "class": "group",
+      "id": "F82BB994-82EE-4678-BE11-26D7F8ECAD83"
+    },
+    {
+      "class": "rectangle",
+      "id": "EB7CBC4B-BC2B-4D24-9999-DB3466F2A1D0"
+    },
+    {
+      "class": "group",
+      "id": "9D5C6303-9BBD-4DEF-B968-C32F9DDE1D31"
+    }
+  ],
+  "name": "home / sheets film",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FD4F9E0-7678-4FE9-8681-18FEA594BEAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4936B21-F7EF-482D-8C81-3C8899B14C17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "820F8CD7-F48A-4085-A0F8-A35AB7F4DD81",
+    "height": 24,
+    "width": 96,
+    "x": 24,
+    "y": 208
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2348021E-9E1F-4747-8F36-66D5C08DFE34"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A8534F0B-2A41-47B9-BA70-8860FA0D566D"
+    },
+    {
+      "class": "text",
+      "id": "BFAE2062-C1B0-468F-9062-20B289197F6C"
+    }
+  ],
+  "name": "Beranda",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5EF3BBF5-7D85-40EE-91A5-69C14D30CAFD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

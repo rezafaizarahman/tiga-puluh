@@ -50,6 +50,10 @@
     {
       "class": "artboard",
       "id": "B7871350-C4F6-4DC9-B52A-556C92023B5A"
+    },
+    {
+      "class": "artboard",
+      "id": "418E4340-7035-440D-8F30-53937E06CF16"
     }
   ],
   "name": "Page 1",
@@ -71,6 +75,9 @@
         "exportDensity": 1,
         "includeFlows": 0
       }
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
     },
     "io.proto.overflow-test1": {
       "docUUID": "37E98BEC-FED7-4448-8D34-E9B7BED948FB"

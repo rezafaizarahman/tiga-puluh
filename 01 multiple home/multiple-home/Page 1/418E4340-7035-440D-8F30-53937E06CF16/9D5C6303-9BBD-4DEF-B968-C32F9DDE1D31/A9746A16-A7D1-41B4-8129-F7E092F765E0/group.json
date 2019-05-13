@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9746A16-A7D1-41B4-8129-F7E092F765E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4143F6A0-2DA4-4018-BAD8-05F636CA9F76",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3C6BBBE-01A5-454A-847C-064A1217E073",
+    "height": 24,
+    "width": 136,
+    "x": 24,
+    "y": 112
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0B1D8307-E0FF-4DDC-8E49-3B9F65EE2593"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2D6CA6E0-5A71-4C07-9F1D-74E15CFD88FD"
+    },
+    {
+      "class": "text",
+      "id": "A5D44863-C488-47D0-9BC5-4C36536BD38D"
+    }
+  ],
+  "name": "Ruang Nonton",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09A5C3C0-9AF7-443B-9317-CD5095E80902",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
