@@ -366,8 +366,8 @@
       "libraryID": "bd513d80-758c-11e9-96f8-c354ab8cefdf",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "C378BDDA-ED40-460E-AC15-4BC1B48D3822",
-        "name": "color/mono 700",
+        "do_objectID": "00C41876-36AF-4E24-82C4-8BF10DEC7463",
+        "name": "color/purple 300",
         "value": {
           "_class": "style",
           "endMarkerType": 0,
@@ -377,9 +377,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.1704879981884058,
-                "green": 0.1704879981884058,
-                "red": 0.1704879981884058
+                "blue": 0.8274509803921568,
+                "green": 0.6588235294117647,
+                "red": 0.6352941176470588
               },
               "fillType": 0,
               "isEnabled": true,
@@ -394,7 +394,7 @@
           "windingRule": 0
         }
       },
-      "remoteStyleID": "B9ED87C3-8842-4652-A6EA-4440A09D6E84",
+      "remoteStyleID": "9BF81232-0CD6-452E-A45E-7DD0E16152F9",
       "sourceLibraryName": "lavender ui kit",
       "symbolPrivate": false
     }

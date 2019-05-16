@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C797D730-2C61-4959-BC6D-95F5EFE82C1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "498647AF-A1DB-4E45-9962-B29E5DD66652",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "359E9A58-AFA6-45BA-A90F-8252241C53EB",
+    "height": 24,
+    "width": 115,
+    "x": 24,
+    "y": 160
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6697D440-AEF8-4FFA-AC6F-FC759362E5F0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "49539AE6-921B-4F77-B8A2-81B36D93E56D"
+    },
+    {
+      "class": "text",
+      "id": "136784E4-FB12-4F67-B4FE-222638CF5E36"
+    }
+  ],
+  "name": "Teras Baca",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "617B39C6-76FF-49EF-8BA9-AB7080379FBF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

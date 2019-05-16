@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "165674A8-15AA-4A2F-916F-35BD6AFE612F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 64,
+    "x": 252,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "micro app",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B8C06C3-9707-4AA2-B998-617945C98BD0",
+      "overrideName": "E049F1AE-6573-4293-8199-C3A2931B1EB5_symbolID",
+      "value": "5E0843E5-D3F0-4869-86F7-5B8D9D5C99E5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83787D3E-FD26-4E30-870A-F98457C94B32",
+      "overrideName": "E049F1AE-6573-4293-8199-C3A2931B1EB5/4B35DD16-39F0-469F-BD21-5C2C2D060093_layerStyle",
+      "value": "19A91661-52FE-4422-A1E2-A8F41C0CC3C2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "25CB7808-DF76-4C6A-BC26-A37D842634DC",
+  "verticalSpacing": 0
+}
