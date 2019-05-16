@@ -597,6 +597,65 @@
       "remoteStyleID": "EFC12F48-4B91-4558-8876-AB0FC6EE6EE9[B9ED87C3-8842-4652-A6EA-4440A09D6E84]",
       "sourceLibraryName": "lavender ui kit",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "bd513d80-758c-11e9-96f8-c354ab8cefdf",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "F2A55309-4BCF-48C2-A538-27A54109DEC5",
+        "name": "shadow/level 4",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "shadows": [
+            {
+              "_class": "shadow",
+              "blurRadius": 8,
+              "color": {
+                "_class": "color",
+                "alpha": 0.16,
+                "blue": 0.1704879981884058,
+                "green": 0.1704879981884058,
+                "red": 0.1704879981884058
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": true,
+              "offsetX": 0,
+              "offsetY": 6,
+              "spread": 2
+            }
+          ],
+          "startMarkerType": 0,
+          "windingRule": 0
+        }
+      },
+      "remoteStyleID": "643F358F-A649-47F0-A412-FE896C747821",
+      "sourceLibraryName": "lavender ui kit",
+      "symbolPrivate": false
     }
   ],
   "foreignSymbols": [
