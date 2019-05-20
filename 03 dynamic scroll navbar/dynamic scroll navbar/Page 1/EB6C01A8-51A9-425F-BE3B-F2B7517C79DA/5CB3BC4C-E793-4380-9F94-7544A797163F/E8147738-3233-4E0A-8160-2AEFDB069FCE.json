@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8147738-3233-4E0A-8160-2AEFDB069FCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB16DBEF-A3BE-44DD-B4FE-B7B2538B5738",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA4338AC-D307-4CC2-B2C5-5C4E105A551A",
+    "height": 24,
+    "width": 24,
+    "x": 320,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon / activity",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "17DD3C4E-DA4A-4664-8F7C-BC5F5138A7B9_layerStyle",
+      "value": "B9ED87C3-8842-4652-A6EA-4440A09D6E84"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1394D4E-E3A9-4BDF-987D-E2E13C67C038",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "05BCBB29-24A0-44D1-B7D2-72672482F19C",
+  "verticalSpacing": 0
+}

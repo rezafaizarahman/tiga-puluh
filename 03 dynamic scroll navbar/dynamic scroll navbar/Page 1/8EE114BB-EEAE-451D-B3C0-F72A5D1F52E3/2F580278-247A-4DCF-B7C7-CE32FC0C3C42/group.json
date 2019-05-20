@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F580278-247A-4DCF-B7C7-CE32FC0C3C42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA7E42B9-806F-4A10-94B1-F102A3C41ABA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "715C2421-200B-4DF2-8172-74A33DB0C5E8",
+    "height": 254,
+    "width": 360,
+    "x": 0,
+    "y": 640
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "950F0B22-EBE5-4146-A06A-E52FD2137871"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A33044E9-06A5-4E94-9BEA-4AE6448DEC39"
+    },
+    {
+      "class": "group",
+      "id": "FC79F59A-C701-4EFD-B756-795C45670DDA"
+    },
+    {
+      "class": "group",
+      "id": "61FEDCC6-8EC3-44D4-9E66-87A75F64D253"
+    },
+    {
+      "class": "group",
+      "id": "3F95C868-C1B3-4709-9978-E5CE0E930708"
+    },
+    {
+      "class": "group",
+      "id": "DF284234-6E31-4D83-8A37-C12716010A41"
+    }
+  ],
+  "name": "sheets content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "67304E4D-4A57-45BF-9B9E-B5752CE77F52",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "201F13D6-9E98-4379-8164-347D94DC868D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.16,
+          "blue": 0.1704879981884058,
+          "green": 0.1704879981884058,
+          "red": 0.1704879981884058
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}

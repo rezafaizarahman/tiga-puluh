@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC79F59A-C701-4EFD-B756-795C45670DDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF5818A8-1AF8-499F-A400-426648642F2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C47D121-0CD4-48F5-A97B-9B093331D284",
+    "height": 24,
+    "width": 127,
+    "x": 24,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1A9197A6-296D-4B80-BFC7-A49839652377"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C3129CCA-6CC4-4A87-89C9-74A82C041AE9"
+    },
+    {
+      "class": "text",
+      "id": "CD54DA82-7537-45C7-B919-EE4FBE5285E4"
+    }
+  ],
+  "name": "Kamar Musik",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DD1FE5C-CEEE-43D1-8802-F27E7FA6601B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

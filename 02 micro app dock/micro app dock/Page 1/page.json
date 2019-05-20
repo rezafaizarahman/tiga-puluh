@@ -41,31 +41,11 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "04C3065B-CA96-4486-9B8C-B0624D818DFF"
-    },
-    {
-      "class": "artboard",
-      "id": "FA7A0470-B86B-4CA8-B911-C6F787D09C77"
-    },
-    {
-      "class": "artboard",
       "id": "1BB34C8C-E100-4C08-8164-179357F0B491"
     },
     {
       "class": "artboard",
-      "id": "D0A9C148-6C48-46EC-9073-165F2C29C691"
-    },
-    {
-      "class": "artboard",
       "id": "F4F72D1C-23B4-4DF5-AC7C-B18D60846162"
-    },
-    {
-      "class": "artboard",
-      "id": "3899975C-7067-4EC5-A88F-838999060461"
-    },
-    {
-      "class": "artboard",
-      "id": "D0302F4F-2D5A-4D03-801E-533F79161D07"
     }
   ],
   "name": "Page 1",

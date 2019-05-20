@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "351BC306-123D-4946-A140-DD52D584DFD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2F840EE-992F-4122-8990-3FBCCB73618C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A3A403F-5B07-45AA-B1A6-56122DA40600",
+    "height": 24,
+    "width": 24,
+    "x": 68,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C93AB544-EBB1-4EEB-BA7E-E6433DB87BE0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E6AACE46-0328-4D1A-8EDF-209580994D30"
+    },
+    {
+      "class": "group",
+      "id": "B214D97C-D877-48D7-8FC1-AE5BB47AAF06"
+    }
+  ],
+  "name": "icon / activity 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E5E9B45-14F0-4EBF-98DA-3094B2F5E243",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
